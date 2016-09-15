@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="display">显示查询到的名字</string>
+</resources>
